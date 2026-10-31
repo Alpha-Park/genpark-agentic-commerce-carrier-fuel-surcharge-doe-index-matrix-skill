@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-carrier-fuel-surcharge-doe-index-matrix-skill",
+  "version": "1.0.0",
+  "title": "Freight Carrier DOE Weekly Diesel Fuel Surcharge (FSC) Matrix Skill",
+  "category": "Agentic Commerce (Logistics & Freight Auditing)",
+  "description": "Calculates contractually enforceable Freight Fuel Surcharges (FSC) linked to US Energy Information Administration (EIA/DOE) On-Highway Diesel weekly indexes.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "calculate_freight_fsc_surcharge"
+  ],
+  "dependencies": []
+}
