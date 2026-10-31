@@ -1,0 +1,10 @@
+{
+  "skill_id": 302,
+  "name": "genpark-agentic-commerce-carrier-fuel-surcharge-doe-index-matrix-skill",
+  "ecosystem": "GenPark",
+  "portal": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "runtime": "python-3.8+",
+  "max_concurrency": 8,
+  "timeout_seconds": 30
+}
